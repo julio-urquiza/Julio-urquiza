@@ -3,26 +3,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=julio-urquiza&theme=github-dark&border_radius=5)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-urquiza&langs_count=6&layout=compact&theme=dracula&hide=html,css,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
-📍 Buenos Aires, GBA, Argentina.  
-💻 Desarrollador Full Stack en formación, con experiencia práctica en Express.js, React.js y PostgreSQL en un entorno de trabajo profesional simulado.  
-🎓 Cursando 1.er año de la Tecnicatura en Programación en la UTN Buenos Aires y formado en Desarrollo Web Fullstack (240 h de habilidades técnicas).  
+📍 Buenos Aires, GBA, Argentina.   
 🚀 Me interesa el sector IT, aprender nuevas tecnologías y construir soluciones de calidad; busco sumarme a un equipo de desarrollo para contribuir de forma colaborativa.
 
 ## 🚀 Proyectos
 
-- **SportConnect** — [Repositorio](URL_DEL_REPO) | [Demo](URL_DEMO) — `React` `Node.js` `Express` `MongoDB`  
+- **SportConnect** — [Repositorio](https://github.com/julio-urquiza/SportConnect) | [Demo](https://sportconnects.netlify.app/) — `React` `Node.js` `Express` `MongoDB`  
   Plataforma web para la gestión y reserva de canchas deportivas: los usuarios buscan canchas, reservan y gestionan su perfil, mientras que los propietarios administran sus canchas.
-- **Amplix** — [Repositorio](URL_DEL_REPO) — `Express.js` `React.js` `PostgreSQL`  
+- **Amplix** — [Repositorio](https://github.com/julio-urquiza/FS-0007) — `Express.js` `React.js` `PostgreSQL`  
   Aplicación web para gestionar el contenido de un blog o portal de noticias: registro, inicio de sesión, creación y edición de publicaciones. Desarrollada colaborativamente durante mis prácticas en AmplixMe.
-
-## 💼 Experiencia
-
-- **AmplixMe** — Programador Full Stack (Prácticas, Jun 2026 – Ago 2026)  
-  Desarrollo de frontend y backend con Express.js, React.js y PostgreSQL.
-- **Procesamiento de Datos** (2022 – Ago 2025)  
-  Procesamiento, control de calidad y corrección de datos de perforaciones petrolíferas.
-- **Alcanzo** — Vendedor en Call Center (Dic 2020 – Ene 2021)  
-  Atención al cliente, ventas telefónicas y administración de información en sistemas.
 
 ## 🎓 Formación
 
@@ -61,10 +50,10 @@
   <a href="https://github.com/julio-urquiza" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@julio--urquiza-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="URL_DE_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-urquiza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Julio_Urquiza-blue?style=for-the-badge&labelColor=gray&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="URL_DE_PORTFOLIO" target="_blank">
+  <a href="https://julio-urquiza.github.io/Portfolio_Urquiza/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Julio_Urquiza-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
@@ -74,8 +63,5 @@
 <p align="left">
   <a href="mailto:julio.cesar.urquiza4@gmail.com">
     <img src="https://img.shields.io/badge/julio.cesar.urquiza4@gmail.com-EMAIL-EA4335?style=for-the-badge&labelColor=grey&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="tel:+5491132071129">
-    <img src="https://img.shields.io/badge/+54+9+11+3207+1129-WHATSAPP-25D366?style=for-the-badge&labelColor=grey&logo=whatsapp&logoColor=white" alt="Teléfono Badge"/>
   </a>
 </p>
